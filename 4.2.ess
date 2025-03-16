@@ -1,1 +1,58 @@
+start
 
+new aone number
+set aone 1
+loop counterss (11 > aone)
+    log number aone
+    set aone aone + 1
+end counterss
+
+new a number
+loop counter (21 > a)
+    log number a
+    set a a + 2
+end counter
+
+new b number
+loop counte (31 > b)
+    log number b
+    set b b + 3
+end counte
+
+new c number
+loop count (41 > c)
+    log number c
+    set c c + 4
+end count
+
+new d number
+loop coun (51 > d)
+    log number d
+    set d d + 5
+end coun
+
+new e number
+loop cou (61 > e)
+    log number e
+    set e e + 6
+end cou
+
+new f number
+loop co (71 > f)
+    log number f
+    set f f + 7
+end co
+
+new g number
+loop cos (81 > g)
+    log number g
+    set g g + 8
+end cos
+
+new h number
+loop coss (82 > h)
+    log number h
+    set h h + 9
+end coss
+
+finish
