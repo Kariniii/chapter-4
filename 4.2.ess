@@ -1,58 +1,48 @@
 start
-
 new aone number
 set aone 1
-loop counterss (11 > aone)
+loop z (11 > aone)
     log number aone
     set aone aone + 1
-end counterss
-
+end z
 new a number
-loop counter (21 > a)
+loop x (21 > a)
     log number a
     set a a + 2
-end counter
-
+end x
 new b number
-loop counte (31 > b)
+loop v (31 > b)
     log number b
     set b b + 3
-end counte
-
+end v
 new c number
-loop count (41 > c)
+loop n (41 > c)
     log number c
     set c c + 4
-end count
-
+end n
 new d number
-loop coun (51 > d)
+loop m (51 > d)
     log number d
     set d d + 5
-end coun
-
+end m
 new e number
-loop cou (61 > e)
+loop r (61 > e)
     log number e
     set e e + 6
-end cou
-
+end r
 new f number
-loop co (71 > f)
+loop w (71 > f)
     log number f
     set f f + 7
-end co
-
+end w
 new g number
-loop cos (81 > g)
+loop q (81 > g)
     log number g
     set g g + 8
-end cos
-
+end q
 new h number
-loop coss (82 > h)
+loop t (82 > h)
     log number h
     set h h + 9
-end coss
-
+end t
 finish
