@@ -1,0 +1,13 @@
+start
+new z number
+set z 22
+new d number
+set d 7
+new i number
+set i 0
+   loop a (z>d)
+   set z z-d
+   set i i+1
+   end a
+log string i >> "," >> z >> "/" >> d
+finish
